@@ -729,8 +729,8 @@ screen and (max-height: 300px) {
 
 @font-face {
     font-family: lg;
-    src: url(../webfonts/lg.eot?n1z373);
-    src: url(../css/webfonts/lg.eot?#iefixn1z373) format("embedded-opentype"), url(../webfonts/lg.woff?n1z373) format("woff"), url(../webfonts/lg.ttf?n1z373) format("truetype"), url(../webfonts/lg.svg?n1z373#lg) format("svg");
+    src: url(../webfonts/lg.eot);
+    src: url(../css/webfonts/lg.eot?#iefixn1z373) format("embedded-opentype"), url(../webfonts/lg.woff) format("woff"), url(../webfonts/lg.ttf) format("truetype"), url(../webfonts/lg.svg?n1z373#lg) format("svg");
     font-weight: 400;
     font-style: normal
 }
